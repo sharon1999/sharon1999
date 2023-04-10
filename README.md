@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development.<br>🌱 I’m currently learning  React JS and DSA<br>💬 Ask me about Web Dev 🧑‍💻<br>
-
+Frontend Developer with 1+ year of experience. Interested in learning new technologies and frameworks.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharon-antony/) 
